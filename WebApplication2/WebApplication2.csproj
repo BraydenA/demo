@@ -6,6 +6,11 @@
 
   <ItemGroup>
     <Content Remove="Views\Home\Contact.cshtml" />
+    <Content Remove="wwwroot\css\site.css" />
+    <Content Remove="wwwroot\css\site.min.css" />
+    <Content Remove="wwwroot\lib\bootstrap\dist\css\bundle.css" />
+    <Content Remove="wwwroot\lib\bootstrap\dist\css\style.css" />
+    <Content Remove="wwwroot\lib\bootstrap\dist\css\style.less" />
   </ItemGroup>
 
   <ItemGroup>
